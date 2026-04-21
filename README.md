@@ -194,8 +194,7 @@ This project can be used by:
 
 ## 👨‍💻 Author
 
-**Your Name**
-Semester 8 – Social Media Analytics
+**Kaivalya Patil**
 Computer Science and Engineering
 
 ---
